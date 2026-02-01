@@ -128,17 +128,11 @@ I regularly practice problem solving to strengthen **logic, efficiency, and engi
   <a href="https://github.com/asifraiyan-systems">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" />
   </a>
-  <a href="https://www.linkedin.com/in/asifraiyan-systems/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" />
-  </a>
   <a href="mailto:asifraiyan.systems@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" />
   </a>
   <a href="https://leetcode.com/asifraiyan-systems/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" />
-  </a>
-  <a href="https://www.facebook.com/61582504727888/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="32" />
   </a>
 </p>
 
