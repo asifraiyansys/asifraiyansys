@@ -121,8 +121,8 @@ A multi-vendor food delivery ecosystem.
 
 ## 📫 Contact
 
-* 📧 [your.email@example.com](mailto:your.email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/yourprofile
+* 📧 asifraiyan.systems@gmail.com
+* 💼 https://www.linkedin.com/in/asifraiyansys
 
 ---
 
