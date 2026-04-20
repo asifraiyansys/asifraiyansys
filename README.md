@@ -1,5 +1,5 @@
 # 👋 Asif Raiyan  
-### 🚀 Flutter Developer | Mobile Application Engineer  
+### 🚀 Flutter Developer 
 
 📍 Dhaka, Bangladesh  
 
