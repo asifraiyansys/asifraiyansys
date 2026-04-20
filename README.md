@@ -2,132 +2,104 @@
 
 ### 🚀 Flutter Developer | Mobile App Engineer
 
-📍 Bangladesh
-🔗 GitHub: https://github.com/yourusername
+📍 Dhaka, Bangladesh
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m a passionate Flutter Developer with **2.6+ years of experience** building scalable, high-performance mobile applications.
+Flutter Developer with **2.6+ years of experience** building scalable and production-ready mobile applications.
 
-Currently working in a software company with **1+ year of professional experience**, I have contributed to real-world applications that are live on both the **Google Play Store and Apple App Store**.
+Currently working in a software company with **1+ year of professional experience**, contributing to apps deployed on both **Google Play Store and Apple App Store**.
 
-I specialize in **Clean Architecture, state management, and performance optimization**, with hands-on experience in **real-time features, video calling systems, and subscription-based apps**.
+I specialize in **Clean Architecture, performance optimization, and real-world application development**, with strong experience in **real-time systems, secure authentication, and subscription-based apps**.
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🚀 Languages & Frameworks
+**Languages:** Flutter, Dart, C, Golang (Basic)
 
-* Flutter, Dart
-* C
-* Golang (Basic)
+**Architecture & State Management:**
+BLoC, Provider, GetX
+Clean Architecture, MVVM, MVC
+Repository Pattern, Feature-first Architecture
 
-### 🧠 Architecture & State Management
+**API & Integration:**
+REST API Integration (http, Dio, GetConnect)
+Experience working with backend services (Node.js-based APIs)
 
-* BLoC, Provider, GetX
-* Clean Architecture
-* MVVM, MVC
-* Repository Pattern
-* Feature-first Architecture
+**Platforms & Services:**
+Firebase (Auth, Push Notifications)
+ZegoCloud (Real-time Video/Audio)
+RevenueCat (Subscriptions)
+Google Maps
 
-### 🔌 Backend & API Integration
+**Storage:**
+Hive, SharedPreferences, Flutter Secure Storage
 
-* REST API Integration (http, Dio, GetConnect)
-* Experience working with Node.js-based backend services
+**Tools:**
+Git, GitHub, FVM, Firebase CLI
 
-### ☁️ Tools & Platforms
-
-* Firebase (Authentication, Push Notifications)
-* ZegoCloud (Video/Audio Calling)
-* RevenueCat (Subscriptions)
-* Google Maps
-
-### 💾 Storage
-
-* Hive
-* SharedPreferences
-* Flutter Secure Storage
-
-### 🛠️ Tools
-
-* Git, GitHub
-* FVM
-* Firebase CLI
-
-### 🚀 Deployment
-
-* Google Play Store
-* Apple App Store
+**Deployment:**
+Google Play Store & Apple App Store
 
 ---
 
-## 📱 Featured Projects
+## 📱 Key Projects
 
 ### 🔹 QUEXXEN™ – Secure Video Calling App
 
-A privacy-focused, high-performance video calling application.
-
-* 📞 Secure group video calling with unlimited group creation
-* ⚡ Real-time audio/video using ZegoCloud
-* 🔐 Instant account deletion (privacy-first approach)
-* 🔔 Firebase push notifications (Android & iOS)
-* 🎯 Clean, intuitive user experience
+* Real-time group video calling using ZegoCloud
+* Secure authentication & user management system
+* Instant account deletion (privacy-focused design)
+* Firebase push notifications (Android & iOS)
+* Clean, scalable architecture
 
 ---
 
 ### 🔹 Ventro Core – Mood Tracking & Meditation App
 
-A subscription-based mental wellness platform.
-
-* 🧠 Mood tracking, journaling, and drawing features
-* 💳 Subscription system using RevenueCat
-* 🌍 Multi-language support
-* 🎧 Audio & video meditation player
-* 🌙 Dark/Light theme support
+* Secure authentication & profile management system
+* Mood tracking, journaling, and drawing features
+* Subscription system using RevenueCat
+* Multi-language support
+* Audio & video meditation system
 
 ---
 
-### 🔹 Baraka Dish – Food Delivery Platform
+### 🔹 Baraka Dish – Multi-Vendor Food Platform
 
-A multi-vendor food delivery ecosystem.
-
-* 🛒 Multi-restaurant system with admin dashboard
-* 👤 Social login (Google, Facebook, Apple)
-* 📦 Real-time order tracking & notifications
-* ♻️ Food rescue system (surprise food purchase)
-* 🔄 In-app update redirection system
+* Authentication system (Google, Facebook, Apple)
+* User & restaurant profile management system
+* Multi-vendor architecture with admin dashboard
+* Real-time order tracking & notifications
+* App update & version control system
 
 ---
 
 ## 📊 Experience
 
-* 👨‍💼 1+ year working as a **Flutter Developer in a software company**
-* 📱 Built and deployed apps on **Play Store & App Store**
-* ⚡ Focused on scalable architecture and smooth performance
+* 👨‍💼 1+ year as a **Flutter Developer in a software company**
+* 📱 Apps deployed on **Play Store & App Store**
+* ⚡ Focused on performance, scalability, and clean architecture
 * 🤝 Experienced in team collaboration and API integration
 
 ---
 
 ## 🎯 Current Focus
 
-* Improving system design and architecture skills
-* Building scalable, maintainable Flutter applications
-* Expanding knowledge in backend systems and API design
+* System design & scalable architecture
+* Advanced Flutter performance optimization
+* Backend fundamentals & API understanding
 
 ---
 
 ## 📫 Contact
 
-* 📧 asifraiyan.systems@gmail.com
-* 💼 https://www.linkedin.com/in/asifraiyansys
+📧 [asifraiyan.systems@gmail.com](mailto:asifraiyan.systems@gmail.com)
+💼 linkedin.com/in/asifraiyansys
 
 ---
 
-## ⭐ Support
-
-If you like my work, feel free to ⭐ star my repositories and follow me on GitHub!
-
----
+⭐ *Feel free to explore my repositories and projects.*
