@@ -1,24 +1,28 @@
-# 👋 Hi, I'm Asif Raiyan
+# 👋 Asif Raiyan
 
-### 🚀 Flutter Developer | Mobile App Engineer
+### 🚀 Flutter Developer 
 
 📍 Dhaka, Bangladesh
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Professional Summary
 
-Flutter Developer with **2.6+ years of experience** building scalable and production-ready mobile applications.
+Flutter Developer with **2.6+ years of experience** in building scalable and production-ready mobile applications.
 
-Currently working in a software company with **1+ year of professional experience**, contributing to apps deployed on both **Google Play Store and Apple App Store**.
+Currently working in a software company with **1+ year of professional experience**, contributing to real-world applications deployed on both **Google Play Store and Apple App Store**.
 
-I specialize in **Clean Architecture, performance optimization, and real-world application development**, with strong experience in **real-time systems, secure authentication, and subscription-based apps**.
+I specialize in **Clean Architecture, performance optimization, and real-world mobile application development**, with strong experience in **real-time communication systems, secure authentication, and subscription-based applications**.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technical Skills
 
-**Languages:** Flutter, Dart, C, Golang (Basic)
+**Programming Languages:**
+Dart, C (Basic), Golang (Basic)
+
+**Framework:**
+Flutter
 
 **Architecture & State Management:**
 BLoC, Provider, GetX
@@ -27,11 +31,10 @@ Repository Pattern, Feature-first Architecture
 
 **API & Integration:**
 REST API Integration (http, Dio, GetConnect)
-Experience working with backend services (Node.js-based APIs)
 
 **Platforms & Services:**
-Firebase (Auth, Push Notifications)
-ZegoCloud (Real-time Video/Audio)
+Firebase (Authentication, Push Notifications, Cloud Services)
+ZegoCloud (Real-time Video/Audio Communication)
 RevenueCat (Subscriptions)
 Google Maps
 
@@ -39,7 +42,7 @@ Google Maps
 Hive, SharedPreferences, Flutter Secure Storage
 
 **Tools:**
-Git, GitHub, FVM, Firebase CLI
+Git, GitHub, FVM, Firebase CLI, Android Studio, VS Code, Postman
 
 **Deployment:**
 Google Play Store & Apple App Store
@@ -52,9 +55,9 @@ Google Play Store & Apple App Store
 
 * Real-time group video calling using ZegoCloud
 * Secure authentication & user management system
-* Instant account deletion (privacy-focused design)
+* Instant account deletion (privacy-focused approach)
 * Firebase push notifications (Android & iOS)
-* Clean, scalable architecture
+* Clean and scalable architecture
 
 ---
 
@@ -91,13 +94,13 @@ Google Play Store & Apple App Store
 
 * System design & scalable architecture
 * Advanced Flutter performance optimization
-* Backend fundamentals & API understanding
+* Improving mobile application quality and user experience
 
 ---
 
 ## 📫 Contact
 
-📧 [asifraiyan.systems@gmail.com](mailto:asifraiyan.systems@gmail.com)  
+📧 [asifraiyan.systems@gmail.com](mailto:asifraiyan.systems@gmail.com)
 💼 [LinkedIn](https://linkedin.com/in/asifraiyansys)
 
 ---
