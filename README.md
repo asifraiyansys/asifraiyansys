@@ -1,141 +1,133 @@
 # 👋 Hi, I'm Asif Raiyan
-**Flutter Developer | Problem Solver | Backend Learner**
 
-I’m a Flutter Developer focused on building **scalable, maintainable, and production-grade mobile applications**.  
-I prioritize **clean architecture**, **performance optimization**, and **predictable state management** to deliver reliable, long-term solutions.
+### 🚀 Flutter Developer | Mobile App Engineer
 
-Currently learning **backend development fundamentals** with **Go (Golang)** and **system design concepts**, aiming to grow toward **end-to-end application development**.
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="44" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="44" />
-</p>
+📍 Bangladesh
+🔗 GitHub: https://github.com/yourusername
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 📱 Cross-platform mobile development with **Flutter**
-- 🧱 Strong focus on **clean architecture & scalable codebases**
-- 🔌 Experience with **API-driven & real-time applications**
-- 🧠 Learning **backend systems & distributed concepts**
-- 📚 Continuous learner with a **problem-solving mindset**
+I’m a passionate Flutter Developer with **2.6+ years of experience** building scalable, high-performance mobile applications.
 
----
+Currently working in a software company with **1+ year of professional experience**, I have contributed to real-world applications that are live on both the **Google Play Store and Apple App Store**.
 
-## 🛠 Tech Stack
-
-### 📱 Mobile Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" />
-</p>
-
-- Flutter (iOS & Android)
-- Dart
-- Flutter Version Management (FVM)
+I specialize in **Clean Architecture, state management, and performance optimization**, with hands-on experience in **real-time features, video calling systems, and subscription-based apps**.
 
 ---
 
-### ☁️ Backend & Cloud
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="36" />
-</p>
+## ⚙️ Tech Stack
 
-- RESTful APIs  
-- WebSocket  
-- Socket.IO  
-- Firebase  
-- Go (Golang)
+### 🚀 Languages & Frameworks
 
----
+* Flutter, Dart
+* C
+* Golang (Basic)
 
-### 🔄 State Management
-<p>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bloc.svg" width="36" />
-</p>
+### 🧠 Architecture & State Management
 
-- BLoC  
-- GetX  
-- Provider  
+* BLoC, Provider, GetX
+* Clean Architecture
+* MVVM, MVC
+* Repository Pattern
+* Feature-first Architecture
 
----
+### 🔌 Backend & API Integration
 
-### 💾 Local Storage & Persistence
-<p>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sqlite.svg" width="36" />
-</p>
+* REST API Integration (http, Dio, GetConnect)
+* Experience working with Node.js-based backend services
 
-- Hive  
-- Sqflite  
-- Shared Preferences  
-- Flutter Secure Storage  
-- GetX Storage  
+### ☁️ Tools & Platforms
 
----
+* Firebase (Authentication, Push Notifications)
+* ZegoCloud (Video/Audio Calling)
+* RevenueCat (Subscriptions)
+* Google Maps
 
-### 🏗 Architecture & Design
+### 💾 Storage
 
-- Clean Architecture  
-- MVC  
-- MVVM  
-- Feature-First Architecture  
-- Layer-First Architecture  
+* Hive
+* SharedPreferences
+* Flutter Secure Storage
 
-*(Architecture concepts intentionally kept text-only for clarity and professionalism.)*
+### 🛠️ Tools
 
----
+* Git, GitHub
+* FVM
+* Firebase CLI
 
 ### 🚀 Deployment
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googleplay/googleplay-original.svg" width="36" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="36" />
-</p>
 
-- Google Play Store  
-- Apple App Store  
+* Google Play Store
+* Apple App Store
 
 ---
 
-### 🧰 Developer Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="32" />
-</p>
+## 📱 Featured Projects
+
+### 🔹 QUEXXEN™ – Secure Video Calling App
+
+A privacy-focused, high-performance video calling application.
+
+* 📞 Secure group video calling with unlimited group creation
+* ⚡ Real-time audio/video using ZegoCloud
+* 🔐 Instant account deletion (privacy-first approach)
+* 🔔 Firebase push notifications (Android & iOS)
+* 🎯 Clean, intuitive user experience
 
 ---
 
-## 🧠 Problem Solving
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" />
-</p>
+### 🔹 Ventro Core – Mood Tracking & Meditation App
 
-- **LeetCode**: asifraiyan-systems  
+A subscription-based mental wellness platform.
 
-I regularly practice problem solving to strengthen **logic, efficiency, and engineering intuition**.
-
----
-
-## 🌐 Connect With Me
-
-<p>
-  <a href="https://github.com/asifraiyan-systems">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" />
-  </a>
-  <a href="mailto:asifraiyan.systems@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="32" />
-  </a>
-  <a href="https://leetcode.com/asifraiyan-systems/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" />
-  </a>
-</p>
+* 🧠 Mood tracking, journaling, and drawing features
+* 💳 Subscription system using RevenueCat
+* 🌍 Multi-language support
+* 🎧 Audio & video meditation player
+* 🌙 Dark/Light theme support
 
 ---
 
-⭐ *I value clarity, simplicity, and long-term maintainability over short-term solutions.*
+### 🔹 Baraka Dish – Food Delivery Platform
+
+A multi-vendor food delivery ecosystem.
+
+* 🛒 Multi-restaurant system with admin dashboard
+* 👤 Social login (Google, Facebook, Apple)
+* 📦 Real-time order tracking & notifications
+* ♻️ Food rescue system (surprise food purchase)
+* 🔄 In-app update redirection system
+
+---
+
+## 📊 Experience
+
+* 👨‍💼 1+ year working as a **Flutter Developer in a software company**
+* 📱 Built and deployed apps on **Play Store & App Store**
+* ⚡ Focused on scalable architecture and smooth performance
+* 🤝 Experienced in team collaboration and API integration
+
+---
+
+## 🎯 Current Focus
+
+* Improving system design and architecture skills
+* Building scalable, maintainable Flutter applications
+* Expanding knowledge in backend systems and API design
+
+---
+
+## 📫 Contact
+
+* 📧 [your.email@example.com](mailto:your.email@example.com)
+* 💼 LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+## ⭐ Support
+
+If you like my work, feel free to ⭐ star my repositories and follow me on GitHub!
+
+---
