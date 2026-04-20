@@ -1,6 +1,6 @@
 # 👋 Asif Raiyan
 
-### 🚀 Flutter Developer 
+### 🚀 Flutter Developer | Mobile Application Engineer
 
 📍 Dhaka, Bangladesh
 
@@ -12,14 +12,14 @@ Flutter Developer with **2.6+ years of experience** in building scalable and pro
 
 Currently working in a software company with **1+ year of professional experience**, contributing to real-world applications deployed on both **Google Play Store and Apple App Store**.
 
-I specialize in **Clean Architecture, performance optimization, and real-world mobile application development**, with strong experience in **real-time communication systems, secure authentication, and subscription-based applications**.
+I specialize in designing and developing **clean, maintainable, and scalable mobile applications**, with strong experience in **real-time communication systems, secure authentication flows, and subscription-based architectures**.
 
 ---
 
 ## ⚙️ Technical Skills
 
 **Programming Languages:**
-Dart, C (Basic), Golang (Basic)
+Dart, C, Golang
 
 **Framework:**
 Flutter
@@ -36,7 +36,7 @@ REST API Integration (http, Dio, GetConnect)
 Firebase (Authentication, Push Notifications, Cloud Services)
 ZegoCloud (Real-time Video/Audio Communication)
 RevenueCat (Subscriptions)
-Google Maps
+Google Maps (Location-based services & tracking)
 
 **Storage:**
 Hive, SharedPreferences, Flutter Secure Storage
@@ -55,19 +55,24 @@ Google Play Store & Apple App Store
 
 * Real-time group video calling using ZegoCloud
 * Secure authentication & user management system
-* Instant account deletion (privacy-focused approach)
+* Instant account deletion with privacy-first approach
 * Firebase push notifications (Android & iOS)
 * Clean and scalable architecture
+
+📲 Play Store: https://play.google.com/store/apps/details?id=com.app.quexxen
+🍎 App Store: https://apps.apple.com/in/app/quexxen/id6760996257
 
 ---
 
 ### 🔹 Ventro Core – Mood Tracking & Meditation App
 
 * Secure authentication & profile management system
-* Mood tracking, journaling, and drawing features
+* Mood tracking, journaling, and expression features
 * Subscription system using RevenueCat
 * Multi-language support
 * Audio & video meditation system
+
+📲 Play Store: https://play.google.com/store/apps/details?id=com.app.ventrocore
 
 ---
 
@@ -77,7 +82,20 @@ Google Play Store & Apple App Store
 * User & restaurant profile management system
 * Multi-vendor architecture with admin dashboard
 * Real-time order tracking & notifications
-* App update & version control system
+* Google Maps integration for restaurant locations
+
+📲 Play Store: https://play.google.com/store/apps/details?id=com.app.barakadishapp
+🍎 App Store: https://apps.apple.com/us/app/dish-baraka/id6747310077
+
+---
+
+## 🧠 Problem Solving
+
+* Regular practice of programming logic and problem-solving skills
+* Focus on improving algorithmic thinking and software engineering fundamentals
+* Competitive programming practice for skill enhancement
+
+🔗 Codeforces: https://codeforces.com/profile/asifraiyansys
 
 ---
 
@@ -85,8 +103,8 @@ Google Play Store & Apple App Store
 
 * 👨‍💼 1+ year as a **Flutter Developer in a software company**
 * 📱 Apps deployed on **Play Store & App Store**
-* ⚡ Focused on performance, scalability, and clean architecture
-* 🤝 Experienced in team collaboration and API integration
+* ⚡ Experience in building scalable, production-level applications
+* 🤝 Strong collaboration in team-based development environments
 
 ---
 
@@ -94,14 +112,14 @@ Google Play Store & Apple App Store
 
 * System design & scalable architecture
 * Advanced Flutter performance optimization
-* Improving mobile application quality and user experience
+* Improving real-world application engineering quality
 
 ---
 
 ## 📫 Contact
 
 📧 [asifraiyan.systems@gmail.com](mailto:asifraiyan.systems@gmail.com)
-💼 [LinkedIn](https://linkedin.com/in/asifraiyansys)
+💼 https://linkedin.com/in/asifraiyansys
 
 ---
 
