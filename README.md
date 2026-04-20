@@ -59,8 +59,8 @@ Google Play Store & Apple App Store
 * Firebase push notifications (Android & iOS)
 * Clean and scalable architecture
 
-📲 Play Store: https://play.google.com/store/apps/details?id=com.app.quexxen
-🍎 App Store: https://apps.apple.com/in/app/quexxen/id6760996257
+📲 Play Store: [https://play.google.com/store/apps/details?id=com.app.quexxen](https://play.google.com/store/apps/details?id=com.app.quexxen)
+🍎 App Store: [https://apps.apple.com/in/app/quexxen/id6760996257](https://apps.apple.com/in/app/quexxen/id6760996257)
 
 ---
 
@@ -72,7 +72,7 @@ Google Play Store & Apple App Store
 * Multi-language support
 * Audio & video meditation system
 
-📲 Play Store: https://play.google.com/store/apps/details?id=com.app.ventrocore
+📲 Play Store: [https://play.google.com/store/apps/details?id=com.app.ventrocore](https://play.google.com/store/apps/details?id=com.app.ventrocore)
 
 ---
 
@@ -84,8 +84,8 @@ Google Play Store & Apple App Store
 * Real-time order tracking & notifications
 * Google Maps integration for restaurant locations
 
-📲 Play Store: https://play.google.com/store/apps/details?id=com.app.barakadishapp
-🍎 App Store: https://apps.apple.com/us/app/dish-baraka/id6747310077
+📲 Play Store: [https://play.google.com/store/apps/details?id=com.app.barakadishapp](https://play.google.com/store/apps/details?id=com.app.barakadishapp)
+🍎 App Store: [https://apps.apple.com/us/app/dish-baraka/id6747310077](https://apps.apple.com/us/app/dish-baraka/id6747310077)
 
 ---
 
@@ -95,7 +95,7 @@ Google Play Store & Apple App Store
 * Focus on improving algorithmic thinking and software engineering fundamentals
 * Competitive programming practice for skill enhancement
 
-🔗 Codeforces: https://codeforces.com/profile/asifraiyansys
+🔗 Codeforces: [https://codeforces.com/profile/asifraiyansys](https://codeforces.com/profile/asifraiyansys)
 
 ---
 
@@ -119,7 +119,7 @@ Google Play Store & Apple App Store
 ## 📫 Contact
 
 📧 [asifraiyan.systems@gmail.com](mailto:asifraiyan.systems@gmail.com)
-💼 https://linkedin.com/in/asifraiyansys
+💼 [https://linkedin.com/in/asifraiyansys](https://linkedin.com/in/asifraiyansys)
 
 ---
 
