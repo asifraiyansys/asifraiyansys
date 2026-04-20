@@ -97,8 +97,8 @@ Google Play Store & Apple App Store
 
 ## 📫 Contact
 
-📧 [asifraiyan.systems@gmail.com](mailto:asifraiyan.systems@gmail.com)
-💼 linkedin.com/in/asifraiyansys
+📧 [asifraiyan.systems@gmail.com](mailto:asifraiyan.systems@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/asifraiyansys)
 
 ---
 
