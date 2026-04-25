@@ -88,6 +88,7 @@ I specialize in designing and developing **clean, maintainable, and scalable mob
 - Audio & video meditation system  
 
 📲 Play Store: https://play.google.com/store/apps/details?id=com.app.ventrocore  
+🍎 App Store: https://apps.apple.com/ca/app/ventro-core/id6760636179
 
 ---
 
